@@ -1,0 +1,68 @@
+{
+  "source": "https://github.com/GodotVR/godot-xr-tools",
+  "commit": "2d8db860d1adbee97c0968c4b07afe9348263926",
+  "author": "DigitalN8m4r3 / Miodrag Sejic",
+  "license": "CC0-1.0",
+  "files": [
+    {
+      "path": "textures/glove_caucasian_dark_camo.png",
+      "sha256": "720b2d1fcb1f64a3eb18fd021a8216ecb3a0650fdfe9feffa92c38b69d8c1e2d"
+    },
+    {
+      "path": "textures/glove_fingerless_normal.png",
+      "sha256": "1e37aa56e17acccef56186245a9bbe159a5bce46c2b9f767860372c25a31a936"
+    },
+    {
+      "path": "textures/glove_fingerless_occlusionRoughnessMetallic.png",
+      "sha256": "0e727de9ccc79eb2377e5f7bd7acaf6b39f33dbf495818bcbf55ce9d05e0225c"
+    },
+    {
+      "path": "animations/left/Grip.res",
+      "sha256": "5f0ad88d3f9127ba37508731752b62ac44e1d731ac35e62c5ef9a27c6a74efbf"
+    },
+    {
+      "path": "animations/left/Grip Shaft.res",
+      "sha256": "2be04356f76f516afc4453d8c88febb5022a17f1bb18ccb89e5a04e5261e8dee"
+    },
+    {
+      "path": "animations/left/Pistol.res",
+      "sha256": "cf0e61634f801854b7bc3127cf289ac7c0cf1aa1f04f0652fa785e392f8ad790"
+    },
+    {
+      "path": "animations/left/Straight.res",
+      "sha256": "bc16d9db8a7e9d0d4d9205a4702bb3e998b16f7eba06697efc4d938bfe37dcd8"
+    },
+    {
+      "path": "animations/left/Cup.res",
+      "sha256": "699fd9e8c9837d60085d4cf6842df00ae53ede2d22e40829f5116e7e6a26ff6c"
+    },
+    {
+      "path": "animations/right/Grip.res",
+      "sha256": "f32e8d70d384732e8f5281b1eb4819e4ae5f1cd59228ec1f9d2587e1b6282966"
+    },
+    {
+      "path": "animations/right/Grip Shaft.res",
+      "sha256": "e10c5eaebe5e6678e7673827e1f122d64859f439b19d349b04bb924b4ee1f433"
+    },
+    {
+      "path": "animations/right/Pistol.res",
+      "sha256": "590eb47c4f8e80de6e048fb4e808a825353972b93c159bd2610db3518a2bacce"
+    },
+    {
+      "path": "animations/right/Straight.res",
+      "sha256": "70ff93c9545412c7edadd3d4c8046bb8b737e5953599a47ff8e90eba1323ade6"
+    },
+    {
+      "path": "animations/right/Cup.res",
+      "sha256": "842c872ecee84d96e90144f16a9a3e00f074237c19575483c3f02e7bd5214a5a"
+    },
+    {
+      "path": "model/Hand_Glove_L.gltf",
+      "sha256": "5afa8503d009e1f024a08ad917729a3ebe50a8f9485681167a3446e7458a7264"
+    },
+    {
+      "path": "model/Hand_Glove_R.gltf",
+      "sha256": "921be5c8095500818e8647dc9258552eaf5cdfcf54f71c7122dd7ffbe9180012"
+    }
+  ]
+}

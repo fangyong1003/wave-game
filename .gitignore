@@ -1,0 +1,7 @@
+.DS_Store
+.tools/
+game/.godot/
+build/
+artifacts/
+*.blend1
+__pycache__/
